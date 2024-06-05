@@ -1,0 +1,15 @@
+import pyttsx3
+
+engine = pyttsx3.init()
+
+print("Welcome to Robo Speaker")
+
+while True:
+    x = input("Enter what you want to speak (or type 'quit' to exit): ")
+    if x.lower() == "quit":
+        engine.say("bye bye friend")
+        engine.runAndWait()
+        break
+    engine.say(x)
+    engine.runAndWait()
+
