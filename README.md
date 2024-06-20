@@ -43,5 +43,4 @@
   </a>
 </p>
 
-<!-- Background Image -->
-<img src="https://wallpapercave.com/fuwp/uwp3909669.jpeg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; opacity: 0.5;" alt="Hacker Background" />
+<img src="https://wallpapercave.com/wp/wp13851685.jpg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; opacity: 0.5;" alt="Hacker Background" />
