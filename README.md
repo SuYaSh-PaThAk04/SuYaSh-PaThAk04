@@ -9,7 +9,7 @@
 
 ### 🌍 Portfolio & Contact
 
-- 🧩 Portfolio: [suyashpathak.vercel.app](https://suyashpathak.vercel.app)
+- 🧩 Portfolio: [suyashpathak.vercel.app](https://suyashpathak-portfolio.netlify.app/)
 - 📫 Email: [suyashp271@gmail.com](mailto:suyashp271@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/suyash-pathak-4347b5283](https://linkedin.com/in/suyash-pathak-4347b5283)
 - 🐦 Twitter (X): [@SuyashPathak28](https://twitter.com/SuyashPathak28)
@@ -19,7 +19,6 @@
 
 ### 💡 About Me
 
-- 🔭 Currently working on **real-time applications** with **Socket.IO, MongoDB, Node.js & React**
 - 💻 Always learning about **backend architectures**, **WebSocket mechanics**, and **system design**
 - ⚒️ Love debugging, refactoring, and shipping clean code
 - 🌱 Recently deployed my **chat app** with **secure auth, WebSocket real-time messaging**, and more
@@ -55,7 +54,7 @@
 - 💬 [Chat Application (Socket.IO)](https://github.com/suyash-pathak04/Chat-Application-Socket.IO)  
   Real-time messaging app with authentication, WebSocket support, and user status indicators.
 
-- 🧠 [AI-Powered Quiz Maker](https://github.com/suyash-pathak04/AI-Quiz-Maker)  
+- 🧠 [AI-Powered Quiz Maker](https://quizify-tau-beryl.vercel.app/)  
   Generates MCQ quizzes from input topics using LLMs like Wizard-Vicuna.
 
 ---
@@ -72,5 +71,5 @@
 ---
 
 <p align="center">
-  <img src="https://wallpapercave.com/wp/wp13851685.jpg" alt="Footer Background" width="100%" />
+  <img src="https://res.cloudinary.com/dlbkfwgd6/image/upload/v1750690706/Screenshot_2025-06-23_202705_g0tmcj.png" alt="Footer Background" width="100%" />
 </p>
