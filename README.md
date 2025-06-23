@@ -2,57 +2,75 @@
 <h3 align="center">A Passionate Full-Stack Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suyash-pathak04&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=suyash-pathak04&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
+### 🌍 Portfolio & Contact
+
+- 🧩 Portfolio: [suyashpathak.vercel.app](https://suyashpathak.vercel.app)
+- 📫 Email: [suyashp271@gmail.com](mailto:suyashp271@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/suyash-pathak-4347b5283](https://linkedin.com/in/suyash-pathak-4347b5283)
+- 🐦 Twitter (X): [@SuyashPathak28](https://twitter.com/SuyashPathak28)
+- 📂 GitHub: [github.com/suyash-pathak04](https://github.com/suyash-pathak04)
+
+---
+
+### 💡 About Me
+
+- 🔭 Currently working on **real-time applications** with **Socket.IO, MongoDB, Node.js & React**
+- 💻 Always learning about **backend architectures**, **WebSocket mechanics**, and **system design**
+- ⚒️ Love debugging, refactoring, and shipping clean code
+- 🌱 Recently deployed my **chat app** with **secure auth, WebSocket real-time messaging**, and more
+- 💬 Always open to ideas, collaborations, and discussions!
+
+---
+
+### 🛠️ Tech Stack
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/suyash-pathak-4347b5283" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind,js,ts,html,css,python,c,cpp,java,docker,git,github,vscode,vercel,netlify,postman" />
 </p>
 
 ---
 
-### 🧰 Languages and Tools
+### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=suyash-pathak04&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suyash-pathak04&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🚀 About Me
+### 🧠 Quote I Believe In
 
-- 🔭 I’m currently working on **real-time web applications** using **Socket.IO, React, and Node.js**
-- 🌱 I’m deepening my knowledge of **system design** and **microservices**
-- ⚡ I enjoy building projects that solve real-world problems and push me to learn new things
+> _"The more you sweat in practice, the less you bleed in battle."_
 
 ---
 
-### 📈 GitHub Stats
+### 📎 Featured Projects
+
+- 💬 [Chat Application (Socket.IO)](https://github.com/suyash-pathak04/Chat-Application-Socket.IO)  
+  Real-time messaging app with authentication, WebSocket support, and user status indicators.
+
+- 🧠 [AI-Powered Quiz Maker](https://github.com/suyash-pathak04/AI-Quiz-Maker)  
+  Generates MCQ quizzes from input topics using LLMs like Wizard-Vicuna.
+
+---
+
+### 🧭 Let's Connect
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suyash-pathak04&show_icons=true&theme=radical" alt="suyash-pathak04 stats" />
+  <a href="mailto:suyashp271@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/suyash-pathak-4347b5283"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/SuyashPathak28"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://suyashpathak.vercel.app"><img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
 
-> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
-
----
-
 <p align="center">
-  <img src="https://wallpapercave.com/wp/wp13851685.jpg" alt="Hacker Background" width="100%"/>
+  <img src="https://wallpapercave.com/wp/wp13851685.jpg" alt="Footer Background" width="100%" />
 </p>
