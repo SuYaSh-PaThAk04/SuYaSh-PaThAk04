@@ -9,7 +9,7 @@
 
 ### 🌍 Portfolio & Contact
 
-- 🧩 Portfolio: [suyashpathak.vercel.app](https://suyashpathak-portfolio.netlify.app/)
+- 🧩 Portfolio: [suyashpathak](https://suyashpathak-portfolio.netlify.app/)
 - 📫 Email: [suyashp271@gmail.com](mailto:suyashp271@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/suyash-pathak-4347b5283](https://linkedin.com/in/suyash-pathak-4347b5283)
 - 🐦 Twitter (X): [@SuyashPathak28](https://twitter.com/SuyashPathak28)
