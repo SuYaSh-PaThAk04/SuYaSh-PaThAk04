@@ -68,7 +68,9 @@
   <a href="https://suyashpathak.vercel.app"><img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
+
 ---
+
 
 <p align="center">
   <img src="https://res.cloudinary.com/dlbkfwgd6/image/upload/v1750690706/Screenshot_2025-06-23_202705_g0tmcj.png" alt="Footer Background" width="100%" />
